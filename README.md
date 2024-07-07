@@ -1,2 +1,2 @@
-# bookLearnFullStackWebDevelopmentThroughImplementation
+# book: LearnFullStackWebDevelopmentThroughImplementation
 実装で学ぶフルスタックWeb開発 で遊ぶ
